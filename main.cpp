@@ -1,6 +1,5 @@
 //Bryan Blair
-//Alejandro Cruz C.
-// Elizabeth Velasquez.
+//Alejandro Cruz 
 
 #include <iostream>
 using namespace std;
